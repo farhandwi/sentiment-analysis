@@ -1,0 +1,1 @@
+A project to compare sentiment analysis of the 2024 vice presidential debate results on YouTube and Twitter, data obtained using data crawling. This project is intended to fulfill the completion of data science courses at Pertamina University.
